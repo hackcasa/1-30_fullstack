@@ -4,3 +4,5 @@ function multiply(a,b) {
 
 console.log(multiply())
 console.log(abcdefg)
+
+console.log(hello)
